@@ -121,6 +121,9 @@ picture {
     width: 100%;
     display: block;
 }
+picture img{
+    width: 100%;
+}
 
 div.video{
     padding: 20px;
